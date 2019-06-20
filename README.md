@@ -1,14 +1,16 @@
 # NAME
 
-xes2pdf - It's new $module
+2pdf.pl - converts from xes to pdf
+eslibre.pl - separates documents from the stream and 
 
 # SYNOPSIS
 
-    use xes2pdf;
+    cat xes_utf8_soure | ./2pdf.pl result.pdf;
 
 # DESCRIPTION
 
-xes2pdf is ...
+This repo is WIP some XES caracteristics are ignored as they aren't used on my streams
+and I created only to present my talks at eslibre 2019 ...
 
 # LICENSE
 
